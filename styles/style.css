@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Alfa+Slab+One&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Alfa+Slab+One|Fredoka+One&display=swap');
+
+body {
+    background-color: #151515;
+}
+
+#mainheading {
+    font-family: mypricedown;
+    color: #DC2C50;
+    font-size: 100px;
+    text-align: center;
+    transition: 1s color;
+}
+
+#mainheading:hover{
+    color:rgb(226, 29, 68);
+    transition-delay: 1s;
+}
+
+#author{
+    text-align: center;
+    padding-top: 2px;
+    color: whitesmoke;
+    letter-spacing: 1px;
+    font-family: 'Fredoka One', cursive;
+}
+
+#author:hover{
+    text-align: center;
+    color: white;
+    letter-spacing: 1px;
+    font-family: 'Fredoka One', cursive;
+}
+
+@font-face {
+    font-family: mypricedown;
+    src: url("fonts/pricedown.ttf") format("truetype");
+    font-weight: bold;
+  }
+
+@font-face {
+    font-family: myblowbrush;
+    src: url("fonts/blowbrush.ttf") format("truetype");
+    font-weight: italic;
+  }
