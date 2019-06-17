@@ -78,8 +78,3 @@ body {
     font-weight: bold;
   }
   
-  
-#top_head:hover{
-    border: 1px solid red;
-    transition-delay: 1s;
-}

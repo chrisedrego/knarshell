@@ -1,0 +1,10 @@
+- We need to login to the OAuth using Gmail or Register (Laters)
+- We can manage multiple kubernetes Cluster
+- We can export/import configmap from a given cluster
+- We can Import Configmap from the following Methods.
+  - Import YAML
+  - Import JSON
+  - Import from TEXT using a delimiter
+  - Import from XLS
+- We can create ConfigMap Manually.
+-  
