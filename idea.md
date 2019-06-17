@@ -7,4 +7,4 @@
   - Import from TEXT using a delimiter
   - Import from XLS
 - We can create ConfigMap Manually.
--  
+- use it https://nextpage.agency/awrds
